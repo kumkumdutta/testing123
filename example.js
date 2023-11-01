@@ -12,3 +12,4 @@ let x = 0
 let y = 9
 let ab = 123
 console.log('hiiiiii');
+let arr = 123
